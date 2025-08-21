@@ -1,2 +1,1 @@
-# 1.-my-first-project
-"web scraping project"
+"Beginner to Intermediate Python Projects"
